@@ -1,0 +1,21 @@
+{
+  "name": "gokcinodul/kuveyt",
+  "description": "Laravel 5.1 Kuveyttürk Sanal Pos",
+  "license": "MIT",
+  "homepage": "https://github.com/gokcinodul/kuveyt",
+  "authors": [
+    {
+      "name": "Gökçin ÖDÜL",
+      "email": "gokcinodul@yandex.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "gokcinodul\\Kuveyt\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/support": "~5"
+  }
+}
